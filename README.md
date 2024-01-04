@@ -96,3 +96,5 @@ This React Vite Single Page Application enables users to efficiently interact wi
   - Deleting data with DELETE requests.
 
 WorldWise is designed for globetrotters, travel enthusiasts, and anyone who wants to preserve their travel memories in a visually appealing and organized manner. Whether you're a seasoned traveler or an aspiring adventurer, WorldWise provides a unique and engaging way to chronicle your global explorations, powered by the combined strengths of Vite and React.
+
+To start exploring the world with WorldWise Map Application, simply follow the [Netlify Hosted Link](https://worldwise77.netlify.app/).
